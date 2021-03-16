@@ -1,0 +1,30 @@
+x = 0 :0.01: 2*pi;
+y = sin (x);
+plot(x,y)
+# Octave 6.1.0, Wed Jan 20 19:01:37 2021 GMT <unknown@DESKTOP-CBE4T9F>
+x = 0 :0.01: 2*pi;
+y = sin (x);
+plot(x,y)
+sinx
+sinx
+calc
+calc
+calc
+calc
+calc
+calc
+calc
+calc
+calc
+calc
+calc
+calc
+calc
+calc
+calc
+calc
+calc
+calc
+calc
+calc
+# Octave 6.1.0, Thu Jan 21 19:40:04 2021 GMT <unknown@DESKTOP-CBE4T9F>
